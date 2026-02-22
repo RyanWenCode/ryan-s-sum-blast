@@ -1,0 +1,5 @@
+{
+  "name": "Ryan's Sum Blast",
+  "description": "A fast-paced mathematical elimination game. Combine numbers to reach the target sum and clear the board before it reaches the top.",
+  "requestFramePermissions": []
+}
